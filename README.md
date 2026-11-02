@@ -8,6 +8,7 @@ Deploy Angular applications on Kubernetes with [Wodby](https://wodby.com).
 
 - [Angular stack on Wodby](https://wodby.com/stacks/angular)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [Angular stack guide](https://wodby.com/docs/2.0/stacks/catalog/angular/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
