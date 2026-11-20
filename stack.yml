@@ -2,6 +2,7 @@ name: angular
 icon: angular
 docs: https://wodby.com/docs/2.0/stacks/catalog/angular/
 title: Angular
+category: javascript
 
 services:
 - name: angular
